@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Padmasree%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Student%20%7C%20ML%20Enthusiast%20%7C%20Building%20Models%20That%20Matter&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Padmasree+Rajavel+%F0%9F%91%8B;AI+%26+Data+Science+Student+%40+KIOT;ML+%7C+Deep+Learning+%7C+LLM+Workflows;Building+models+that+forecast+%26+solve+real+problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Padmasree+Rajavel+%F0%9F%91%8B;AI+%26+Data+Science+Student+%40+KIOT;ML+%7C+Data+Science+%7C+LLM+Workflows;BBuilding+models+that+forecast+%26+solve+real+problems" alt="Typing SVG" />
 </div>
 
 <br/>
